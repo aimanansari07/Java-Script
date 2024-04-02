@@ -1,0 +1,17 @@
+.para{
+    color: purple;
+    background-color: yellow;
+}
+
+.newpara{
+    text-align: center;
+    font-size: xx-large;
+   
+
+}
+.newpara2{
+    border: 2px solid black;
+}
+.radius{
+    border-radius: 15px;
+}
